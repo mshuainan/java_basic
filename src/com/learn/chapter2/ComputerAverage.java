@@ -3,7 +3,7 @@ package com.learn.chapter2;
 import java.util.Scanner;
 
 /**
- * description: 根据用户输入的数字，计算平均值
+ * description: 根据用户输入的3个数字，计算平均值
  * @author shnma
  * @date 2019/8/31 下午5:48
  */
