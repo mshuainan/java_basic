@@ -7,9 +7,9 @@ import java.util.Scanner;
  * @author shnma
  * @date 2019/8/31 下午5:48
  */
-public class ComputerAverage(){
+public class ComputerAverage{
 
-	public static void main(Staring[] args){
+	public static void main(String[] args){
 		// Create a Scanner object
 		Scanner scanner = new Scanner(System.in);
 
@@ -20,10 +20,10 @@ public class ComputerAverage(){
 		double number3 = scanner.nextDouble();
 
 		// Computer average
-		double average = (number1 + number2 + number3) / 3
+		double average = (number1 + number2 + number3) / 3;
 
 		// Display result
-		System.out.println("The average of " number1 + " " + number2 + " " + number3 + " is " + average);
+		System.out.println("The average of " + number1 + " " + number2 + " " + number3 + " is " + average);
 	}
 
 }
