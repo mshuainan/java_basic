@@ -3,7 +3,7 @@ package com.learn.chapter5;
 /**
  * @author : mashuainan
  * create at:  2019/9/9  下午9:46
- * @description: 测试获取最大值
+ * description: 测试获取最大值
  */
 public class TestMax {
 
