@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @author : mashuainan
  * create at:  2019/9/9  下午11:00
- * @description: 吧一个十进制的数转换为十六进制数
+ * description: 把一个十进制的数转换为十六进制数
  */
 public class Decimal2HexConversion {
 
