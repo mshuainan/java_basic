@@ -21,9 +21,9 @@ public class WriteData {
 			PrintWriter output = new PrintWriter(file);
 
 			// Write formatted output to the file
-			output.print("John T Smith");
+			output.print("John T Smith ");
 			output.println(90);
-			output.print("Eric K Jones");
+			output.print("Eric K Jones ");
 			output.println(85);
 
 			// Closed the file
