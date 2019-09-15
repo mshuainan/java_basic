@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * @author : mashuainan
  * create at:  2019/9/15  上午9:02
- * @description: 猜生日使用数组-GuessBirthDay.java
+ * description: 猜生日使用数组-GuessBirthDay.java
  */
 public class GuessBirthdayUsingArray {
 	public static void main(String[] args) {
