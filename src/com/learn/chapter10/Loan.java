@@ -118,17 +118,6 @@ public class Loan {
 	}
 
 	/**
-	 * description: Set a new loanDate
-	 * @param loanDate
-	 * @return void
-	 * @author shnma
-	 * @date 2019/9/16 上午8:30
-	 */
-	public void setLoanDate(Date loanDate) {
-		this.loanDate = loanDate;
-	}
-
-	/**
 	 * description: Find monthly payment
 	 * @param
 	 * @return double
