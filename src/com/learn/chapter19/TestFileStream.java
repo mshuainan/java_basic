@@ -25,7 +25,6 @@ public class TestFileStream {
 		// Create an input stream to the file
 		FileInputStream fileInputStream = new FileInputStream("temp.dat");
 
-
 		// Read values for the file
 		int value;
 		while((value = fileInputStream.read()) != -1){
